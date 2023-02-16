@@ -1,0 +1,9 @@
+building_type,description,value
+supermarket,SuperMarket,68.9
+office_building,Office Building,19
+school,School,29
+health_services,Health Services,54
+manufacturing_industrial,Manufacturing/Industrial,7
+shopping_ctr_30_200,"Shopping Center (30,000 -200,000 sf)",7
+shopping_ctr_u30,"Shopping Center (less than 30,000 sf)",50
+restaurant,Restaurant,311

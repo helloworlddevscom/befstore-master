@@ -1,0 +1,61 @@
+{
+  "name": "befstore",
+  "version": "1.0.0",
+  "description": "javascript files for calculator functionality and testing",
+  "main": "index.js",
+  "scripts": {
+    "start:nodemon": "nodemon --exec babel-node wp-content/plugins/bef-store-calculator/includes/src/index.js",
+    "start:webdev": "webpack --watch --config webpack.dev.js --mode development",
+    "start:webprod": "webpack --watch --config webpack.prod.js --mode production",
+    "build:webprod": "webpack --config webpack.prod.js --mode production",
+    "test": "jest --config ./jest.config.json",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorldDevs/befstore.git"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "php",
+    "wordpress"
+  ],
+  "author": "jeff@helloworlddevs.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloWorldDevs/befstore/issues"
+  },
+  "homepage": "https://github.com/HelloWorldDevs/befstore#readme",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.1",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.1",
+    "cross-env": "^7.0.2",
+    "csvjson-csv2json": "^5.0.6",
+    "dotenv-webpack": "^5.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^5.4.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

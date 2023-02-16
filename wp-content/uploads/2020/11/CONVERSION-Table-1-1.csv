@@ -1,0 +1,24 @@
+unit,value,description
+g_kg,1000,gram per kilogram
+kg_mt,1000,kilogram per metric ton
+ccf_m,35.3147,standard cubic feet per cubic meters
+btu_ft,1024,btu per cubic feet
+btu_therm,100000,btu per therm
+btu_ccf,1027,btu per standard cubic feet
+btu_mmbtu,1000000,btu per 1m btu
+tj_mmbtu,0.001055,terajoules per 1m btu
+mt_carbon_dioxide_mt_methane,21,metric ton carbon dioxide per metric ton methane
+mt_carbon_dioxide_mt_nitrious_dioxode,310,metric ton carbon dioxide per metric ton nitrous oxide
+l_gal,3.785,liters per gallon
+btu_gal_diesel,138000,btu per gallon diesel
+btu_gal_gas,114000,btu per gallon gas
+ft_ccf,100,cubic feet per ccf
+ft_therms,97.371,cubic feet per therms
+ft_mmbth,973.710,cubic feet per 1m btu
+ft_mcf,1000,cubic feet per 1k cubic feet
+gal_gal,1,gallon propane per 1 gallon
+gal_lb,0.238,gallon propane per lb
+gal_kg,0.525,gallon propane per kg
+mile_km,0.621371,mile per km
+rfi,2.7,refractive index
+lb_kg,2.20462,lbs per kg

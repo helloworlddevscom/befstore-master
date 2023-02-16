@@ -1,0 +1,9 @@
+transportation_type,description,carbondioxide_kg_mile,carbondioxide_kg_km,methane_G_mile,nitriousoxide_g_mile
+air_domestive,Air - Domestic,,0.17147,,
+air_short_haul,Air - Short Haul - Seating Unknown,,0.097,,
+air_long_haul,Air - Long Haul - Seating Unknown,,0.11319,,
+train,Train - Average (Light Rail and Tram),0.163,,0.004,0.002
+taxi,Taxi,0.23,,0.02,0.021
+bus,Bus - Type Unknown,0.107,,0.0006,0.0005
+ferry,Large RoPax Ferry,,0.11516,,
+car,Passenger Car - Gasoline - Year 2005-present,0.391555555555556,,0.0147,0.0079

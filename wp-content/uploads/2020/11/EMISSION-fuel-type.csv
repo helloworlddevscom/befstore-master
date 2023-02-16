@@ -1,0 +1,16 @@
+emission_type,value,unit
+nat_gas_carbon_dioxide,1.88496,kg_m
+nat_gas_methane,0.000168,kg_m
+nat_gas_nitrious_oxide,0.00000336,kg_m
+propane_carbon_dioxide,5.79,kg_gal
+propane_methane,0.00012771,kg_l
+propane_nitrious_oxide,0.0000025542,kg_l
+gas_carbon_dioxide,8.81,kg_gal
+gas_methane,10,kg_tj
+gas_nitrious_oxide,0.6,kg_tj
+diesel_carbon_dioxide,10.15,kg_gal
+diesel_methane,10,kg_tj
+diesel_nitrious_oxide,0.6,kg_tj
+heating_oil_carbon_dioxide,10.15,kg_gal
+heating_oil_methane,10,kg_gal
+heating_oil_nitrious_oxide,0.6,kg_gal

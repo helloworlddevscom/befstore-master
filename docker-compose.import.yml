@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  db_import:
+    image: mysql:5.7
+    container_name: import_db
+    env_file: [ .env.development ]
+    working_dir: /workspace
+    depends_on:
+      - db
+    volumes:
+      - ./database:/workspace/database
+      - ./.env.development:/workspace/.env.development
+
+  db:
+    image: mysql:5.7
+    container_name: befstore_db_import
+    env_file: [ .env.development ]
+    working_dir: /workspace
+    volumes:
+      - ./data:/var/lib/mysql
+      - ./.env.development:/workspace/.env.development

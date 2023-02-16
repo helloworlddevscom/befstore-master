@@ -1,0 +1,28 @@
+{
+    "name": "befstore/main",
+    "description": "local wordpress dev env",
+    "authors": [
+        {
+            "name"    : "Jeff Browning"
+        }
+    ],
+    "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url" : "https://wpackagist.org"
+        }
+    ],
+    "config": {
+        "vendor-dir": "wp-content/vendor"
+    },
+    "require": {
+        "johnpbloch/wordpress": ">=5.7.1",
+        "wpackagist-theme/twentytwenty": "*",
+        "symfony/dotenv": "^4.3",
+        "robmorgan/phinx": "^0.12.4"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    }
+}

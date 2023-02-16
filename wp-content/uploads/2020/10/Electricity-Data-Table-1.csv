@@ -1,0 +1,28 @@
+egrid,subregion_name,carbon_dioxide_lb_mwh,methane_lb_gwh,nitrous_oxide_factor_lb_gwh,est_carbon_dioxide_lb_mhw
+AKGD,ASCC Alaska Grid,"1,039.6",0.08,0.01,"1,045.0"
+AKMS,ASCC Miscellaneous,525.1,0.02,0.00,527.0
+ERCT,ERCOT All,931.7,0.07,0.01,936.1
+FRCC,FRCC All,931.8,0.07,0.01,936.1
+HIMS,HICC Miscellaneous,"1,110.7",0.12,0.02,"1,119.1"
+HIOA,HICC Oahu,"1,669.9",0.18,0.03,"1,682.6"
+MROE,MRO East,"1,678.0",0.17,0.03,"1,689.7"
+MROW,MRO West,"1,239.8",0.14,0.02,"1,249.2"
+NYLI,NPCC Long Island,"1,184.2",0.14,0.02,"1,193.1"
+NEWE,NPCC New England,522.3,0.08,0.01,527.6
+NYCW,NPCC NYC/Westchester,596.4,0.02,0.00,597.8
+NYUP,NPCC Upstate NY,253.1,0.02,0.00,253.9
+RFCE,RFC East,716.0,0.06,0.01,720.0
+RFCM,RFC Michigan,"1,312.6",0.13,0.02,"1,321.2"
+RFCW,RFC West,"1,166.1",0.12,0.02,"1,174.0"
+SRMW,SERC Midwest,"1,664.2",0.19,0.03,"1,676.8"
+SRMV,SERC Mississippi Valley,854.6,0.06,0.01,858.4
+SRSO,SERC South,"1,027.9",0.08,0.01,"1,033.5"
+SRTV,SERC Tennessee Valley,"1,031.5",0.10,0.01,"1,038.1"
+SRVC,SERC Virginia/Carolina,743.3,0.07,0.01,747.5
+SPNO,SPP North,"1,163.2",0.12,0.02,"1,171.6"
+SPSO,SPP South,"1,166.6",0.09,0.01,"1,172.8"
+CAMX,WECC California,496.5,0.03,0.00,498.7
+NWPP,WECC Northwest,639.0,0.06,0.01,643.4
+RMPA,WECC Rockies,"1,273.6",0.12,0.02,"1,281.9"
+AZNM,WECC Southwest,"1,022.4",0.08,0.01,"1,027.5"
+null,US Average,947.2,0.085,0.012,952.9
